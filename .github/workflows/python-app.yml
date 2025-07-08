@@ -4,7 +4,7 @@
 name: Python application
 
 on:
-  workflow_dispatcj:
+  workflow_dispatch:
   push:
     branches: [ "main" ]
   pull_request:
